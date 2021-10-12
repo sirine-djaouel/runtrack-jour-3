@@ -1,0 +1,70 @@
+body {
+	background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7QAdPUM0vUrida5sRbUMdacgulyb2DfuaVw&usqp=CAU);
+	}
+
+h1 {
+	font-family:Arial; 
+	color: White;
+	font-size: 40px;
+	text-align: center;
+	
+	}
+	h3 {
+		font-family: Arial;
+		font-size: 32px;
+		text-align: center;
+	}
+	
+	.photo {
+		text-align: center;
+	}
+	h2 {
+		font-family: Garamond;
+		text-decoration: underline; 
+		text-align: center;
+	}
+	ul {
+		text-align: center;
+	}
+	
+	.poste {
+		font-size: 18px;
+		font-weight: bold;
+	} 
+	.lieu {
+		font-style: italic;
+	}
+#conteneur {
+	display: flex;
+	flex-direction: row;
+	border: 2px solid black;
+	justify-content: space-between; 
+	
+}
+.bloc1 {
+	border: 2px solid black;
+	margin: 10px;
+	margin-left: 5px;
+	padding: 10px;
+	width: 50%;
+	box-shadow: 5px 2px 2px black;
+}
+.bloc2 {
+	border: 2px solid black;
+	margin: 10px;
+	margin-left: 5px;
+	padding: 10px;
+	width: 50%;
+	box-shadow: 5px 2px 2px black;
+}
+.bloc3 {
+border: 2px solid black;
+float: bottom;
+}
+
+
+
+
+
+	
+	

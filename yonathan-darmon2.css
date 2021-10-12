@@ -1,0 +1,93 @@
+h1{
+    text-align: center;
+    color: rgba(196, 18, 18, 0.822);
+    font-family: 'Italianno', cursive;
+    text-shadow: 3px 3px black;
+    width: 100%;
+    height: 25%;
+    transition: width 4sec;
+    
+}
+h1:hover{width: 200%;}
+    
+h2{
+    text-align: center; 
+    color: rgba(196, 18, 18, 0.822);
+    text-shadow: 3px 3px black;
+}
+h3{
+    text-align: left;
+    color: navy;
+    text-decoration: underline;
+}
+body{
+    text-align: justify;
+    color: rgba(12, 11, 11, 0.541);
+    font-family:'Anton', sans-serif;
+    font-size:larger;
+    background-image: url(17973908.jpg);
+    text-shadow: 2px 2px rgba(202, 14, 14, 0.822);
+}
+.bouton{
+    text-align: right;
+}
+li{
+    display: flex;
+}
+.boite{
+    border:solid 10px black;
+    padding: 0.5em;
+    width: 45%;
+    margin: 10px;
+    background-color: rgb(109, 71, 214);
+    border-radius: 20%;
+    resize: horizontal;
+    overflow: auto;
+}
+.boite2{
+    border:solid 10px black;
+    padding: 0.5em;
+    width: 45%;
+    margin: 10px;
+    background-color: rgb(100, 71, 214);
+    border-radius: 20%;
+    resize: horizontal;
+    overflow: auto;
+}
+.boite3{
+    border:solid 10px black;
+    padding: 0.5em;
+    width: 10%;
+    margin: 10px;
+    background-color: rgb(100, 71, 214);
+    border-radius: 20%;
+    resize: horizontal;
+    overflow: auto;
+}
+.bouton{
+   
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 6px;
+  margin: 1px 2px;
+  cursor: pointer;
+}
+    
+    /* border: 10px black;
+    padding: 0.5em;
+    width: 10%;
+    margin: 10px;
+    float: bottom; */
+
+#contenaire{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.div{
+    float: left;
+    padding: 15px;
+}

@@ -1,0 +1,122 @@
+body{
+   
+   background-image: url(fond.jpeg);
+        margin: 0;
+        padding: 0;
+        }
+    
+
+.Prénom {
+  
+    height: 300px;
+    box-sizing: border-box;
+    font-family:'Gemunu Libre', sans-serif;;
+    text-decoration: underline;
+    background-image: url(fond.jpeg);
+    background-color: #E4E4D9;
+    color: #fff;
+    margin-bottom: 15px;
+   
+                      text-align : center;
+                      
+                      border : double black;
+}
+
+
+.Parcours{
+    width: 50%;
+    height: 200px;
+    border: double black;
+    float: left;
+    text-align: center;
+    margin-right: 3%;
+    background-color: white;
+    font-family: 'Gemunu Libre', sans-serif;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+
+.Perspec{
+    width: 50%;
+    height: 200px;
+    border: double black;
+    float: right;
+    text-align: center;
+    background-color: #E4E4D9;
+    font-family: 'Gemunu Libre', sans-serif;
+    margin-right: 15px;
+}
+
+.passion{
+    
+    width: 50%;
+    height: 200px;
+    border: double black;
+    float: left;
+    text-align: center;
+    margin-right: 3%;
+    background-color: #E4E4D9;
+    margin-top: 15px;
+    font-family: 'Gemunu Libre', sans-serif;
+    margin-right: 15px;
+    margin-left: 15px;
+    
+}
+
+#conteneur{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+ol{
+    display : inline-block;
+    margin :auto;
+    text-align:left;
+  }
+
+  .styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    margin-top: 100px;
+    
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+    float: right;
+}
+
+
+
+.styled:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+
+#conteneur2{
+    display: flex;
+    flex-wrap: nowrap;
+}
+ 
+
+.fin{
+    width: 50%;
+    height: 200px;
+    border: double black;
+    float: right;
+    text-align: center;
+    background-color: #fff;
+   margin-top: 15px;
+    font-family: 'Gemunu Libre', sans-serif;
+    margin-right: 15px;
+}

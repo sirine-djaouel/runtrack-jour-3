@@ -1,0 +1,11 @@
+body{background-color:rgba(128, 128, 128, 0.979); }
+h1{ text-align: center; color: rgb(251, 255, 0); font-family:'Abril FatFace', cursive; font-size:50px; border:solid; border-color: blue; background-color: blue;}
+h2{ text-align: center; font-style:italic; font-size: 20px; font-family:'Abril FatFace', cursive;}
+h3{ text-decoration: overline; text-decoration-style: wavy; font-family:'Kaushan Script', cursive; font-size:30px; color: yellow;}
+.contentebox{box-sizing: border-box;
+    width: 100%;
+    border: solid #0228ff 10px;
+    padding: 5px;}
+.logiciel{font-style:inherit; font-size:20px;}
+.langues{font-style:inherit; font-size:20px;}
+.date{font-family: cursive; font-size: 13px;}

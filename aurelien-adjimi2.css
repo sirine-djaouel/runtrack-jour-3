@@ -1,0 +1,75 @@
+body {
+	background-image:url(https://st3.depositphotos.com/13324256/17034/i/600/depositphotos_170344426-stock-photo-wooden-background.jpg);
+	}
+
+h1 {
+	font-family:Verdana; 
+	color: Red;
+	font-size: 40px;
+	text-align: center;
+	text-decoration: underline;
+	
+	}
+	h3 {
+		font-family: Verdana;
+		font-size: 32px;
+		text-align: center;
+		color: White;
+	}
+	p {
+		color: White;
+	} 
+	.infos { 
+	font-size: 22px;
+	background-color: White;
+	} 
+	.photo {
+		text-align: center;
+	}
+	h2 {
+		font-family: Garamond;
+		text-decoration: underline; 
+		text-align: center;
+		background-color: Black;
+	}
+	ul {
+		text-align: center;
+	}
+	
+	.poste {
+		font-size: 18px;
+		font-weight: bold;
+	} 
+	.lieu {
+		font-style: italic;
+	}
+#conteneur {
+	display: flex;
+	flex-direction: row;
+	border: 2px solid black;
+	justify-content: space-between; 
+	
+}
+.bloc1 {
+	border: 2px solid black;
+	margin: 10px;
+	margin-left: 5px;
+	padding: 10px;
+	width: 50%;
+	box-shadow: 5px 2px 2px black;
+	color: White;
+}
+.bloc2 {
+	border: 2px solid black;
+	margin: 10px;
+	margin-left: 5px;
+	padding: 10px;
+	width: 50%;
+	box-shadow: 5px 2px 2px black;
+	color: White;
+}
+.bloc3 {
+border: 2px solid black;
+float: bottom;
+color: White;
+}

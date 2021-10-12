@@ -1,0 +1,126 @@
+body{
+    background-image: url(pile.jpg);
+
+}
+.Prénom {
+    padding : 1em;
+    width: 25%;
+    height: 200px;
+    box-sizing: border-box;
+    font-family:'Gemunu Libre', sans-serif;;
+    text-decoration: underline;
+    color: #fff;
+    
+    background-color: black;
+  
+ 
+   
+                      text-align : center;
+                      padding : 1em;
+                      border : double #fff;
+                      margin-bottom: 5px;}
+
+
+.Parcours{
+    width: 25%;
+    height: 200px;
+    border: double #fff;
+    color: #fff;
+    text-align: left;
+    margin-right: 3%;
+    background-color: black;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 15px;
+}
+
+
+.Perspec{
+    width: 50%;
+    height: 200px;
+    border: double #fff;
+    color: #fff;
+    text-align: left;
+    background-color: #000;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 20px;
+}
+
+.passion{
+    width: 50%;
+    height: 200px;
+    border: double #fff;
+    color: #fff;
+    text-align: left;
+    background-color: #000;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 20px;
+    
+}
+
+
+
+
+  .styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    margin-top: 100px;
+    width: 25%;
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+    float: right;
+}
+
+
+
+.styled:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+
+  
+ 
+
+.fin{
+    padding : 1em;
+    width: 100%;
+    height: 200px;
+    box-sizing: border-box;
+    border : double black;
+    float: right;
+    
+
+    background-color: #ffff
+    background-image: linear-gradient(175deg, rgba(0,0,0,0) 95%, #8da389 95%),
+    linear-gradient( 85deg, rgba(0,0,0,0) 95%, #8da389 95%),
+    linear-gradient(175deg, rgba(0,0,0,0) 90%, #b4b07f 90%),
+    linear-gradient( 85deg, rgba(0,0,0,0) 92%, #b4b07f 92%),
+    linear-gradient(175deg, rgba(0,0,0,0) 85%, #c5a68e 85%),
+    linear-gradient( 85deg, rgba(0,0,0,0) 89%, #c5a68e 89%),
+    linear-gradient(175deg, rgba(0,0,0,0) 80%, #ba9499 80%),
+    linear-gradient( 85deg, rgba(0,0,0,0) 86%, #ba9499 86%),
+    linear-gradient(175deg, rgba(0,0,0,0) 75%, #9f8fa4 75%),
+    linear-gradient( 85deg, rgba(0,0,0,0) 83%, #9f8fa4 83%),
+    linear-gradient(175deg, rgba(0,0,0,0) 70%, #74a6ae 70%),
+    linear-gradient( 85deg, rgba(0,0,0,0) 80%, #74a6ae 80%);
+    text-align : center;
+    padding : 1em;
+    border : double black;
+    margin-bottom: 5px;}
+}
+
+
+#conteneur2{
+    display: flex;
+    flex-wrap: nowrap;
+}

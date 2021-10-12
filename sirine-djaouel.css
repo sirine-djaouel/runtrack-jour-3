@@ -1,0 +1,54 @@
+body {
+    font-family: Cambria;
+    background-image: url(background-sirine-djaouel1.jpg);
+    background-size: auto;   
+}
+
+h1 {
+color: white;
+font-family: 'Arial Narrow Bold';
+font-size: 50px;
+text-align: center;
+text-shadow: 2px 2px 5px rgb(218, 13, 139);
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+
+}
+
+h3 {
+    color: rgb(211, 186, 205);
+    font-size: 28px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.Parcours {
+
+    color: rgb(51, 33, 47);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.Perspectives {
+
+   color: rgb(51, 33, 47);
+   font-size: 18px;
+   font-weight: bold;
+}
+
+.Passions {
+
+    color: rgb(51, 33, 47);
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.button {
+
+    text-align: right;
+}

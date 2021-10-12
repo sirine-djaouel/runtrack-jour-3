@@ -1,0 +1,30 @@
+    head p.double{border-style: double;}
+h1{background-color:teal;color:cornflowerblue;}
+h3   {color:navy; 
+    text-align:center}
+h2  {color:snow;
+    text-align: center;text-decoration: underline;}
+    body{background-image:url("pexels-pixabay-268415.jpg");}
+
+.cadre{
+    text-align: center;
+    padding: 1em ;
+    border: double black;}
+    #borderimg{
+        border-image: url(border);
+        border: 100px:color:darkgreen;
+        padding: 15px}
+
+        p{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
+        p{text-align: center;}
+        ol {font-style: italic;
+            font-family:'Times New Roman', Times, serif;
+            color:rgb(80, 43, 153);text-align:center;
+            }
+    .cadr{
+        text-align: center;
+        padding: 1em;
+        border: double black}
+            
+            
+        

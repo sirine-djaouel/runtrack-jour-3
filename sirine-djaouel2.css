@@ -1,0 +1,61 @@
+body {
+    font-family: Cambria;
+    background-color: rgb(238, 198, 185);  
+}
+
+h1 {
+color: white;
+font-family: fantasy;
+font-size: 50px;
+text-align: center;
+text-shadow: 2px 2px 5px rgb(124, 117, 121);
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+
+}
+
+h3 {
+    color: rgb(194, 166, 187);
+    font-size: 28px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.Parcours {
+
+    color: rgb(51, 33, 47);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.Perspectives {
+
+   color: rgb(51, 33, 47);
+   font-size: 18px;
+   font-weight: bold;
+}
+
+.Passions {
+
+    color: rgb(51, 33, 47);
+    font-size: 18px;
+    font-weight: bold;
+text-align: center;
+
+}
+
+ol{
+    display : inline-block;
+    margin :auto;
+    text-align:center;
+  }
+
+
+.button {
+
+    text-align: right;
+}

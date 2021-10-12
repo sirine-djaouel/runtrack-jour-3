@@ -1,0 +1,16 @@
+body{background-color: coral;}
+.double{border-style:double}
+
+h1 {text-shadow: 0 0 3px #aa14be;text-decoration:underline ;
+    text-align:right;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    header {
+        background-color: #f1f1f172;
+        text-align:center;
+        padding: 20px;}
+        h1{color:darkslategray}
+    .cad{text-align: center
+        ;padding: 1px
+        ;border:dashed black}
+h2{font-style: italic;text-decoration: overline;}
+p{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+ol:hover{color:orchid}

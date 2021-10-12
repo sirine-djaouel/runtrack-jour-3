@@ -1,0 +1,15 @@
+body{background-color:lightgrey;}
+h1{text-shadow:0 0 3px #cec2c2, 0 0 5px #3614af;
+   text-align:right ;text-decoration:underline ;}
+   h3{text-align:center;background-color: powderblue;}
+   .ban{text-align: center;
+   padding: 0.5em ;
+   border: double navy}
+   .fer{text-align: center;}
+.der{text-align: right;}
+p{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-style: italic;}
+ul{display:inline-block;
+    margin: auto ;
+    text-align: right}
+    .tit{text-align:center ;
+    border:double navy;}
